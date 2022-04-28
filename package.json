@@ -13,7 +13,7 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "axios": "^0.18.0",
     "bluebird": "^3.5.4",
     "bootstrap": "^4.3.1",
